@@ -1,8 +1,9 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/alu0101540153">Víctor</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   
-
-Currently a student at [ULL](https://www.ull.es/) (second year)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l2QZT3Lv8u608nEpa/giphy.gif" width="250" height="200" />
+  
+   Currently a student at [ULL](https://www.ull.es/) (second year)
 
 ### 🌐 Redes
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">](https://twitter.com/rgez_victor) &nbsp;&nbsp;
