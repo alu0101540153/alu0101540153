@@ -9,7 +9,7 @@
 Currently a student at [ULL](https://www.ull.es/) (second year)
 
 [![GitHub](icons/github.png)](https://github.com/alu0101540153)
-[![Twitter](icons/twitter.png)](https://twitter.com/rgez_victor)
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png)](https://twitter.com/rgez_victor)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/victor.rgez/)
 
 <div align="center">
