@@ -14,8 +14,9 @@
 [<img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-eyd5tyuo.png" width="40" height="40">](https://github.com/alu0101540153)  &nbsp;&nbsp;
 
 ## 👨🏻‍💻Lenguajes de Programación
-- 💻 C++
-- 
+- 💻 C++ / C
+- 📑 Bash
+- 🐍 Pyton ( learning )
 
 
 ##
