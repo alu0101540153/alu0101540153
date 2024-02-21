@@ -16,7 +16,8 @@
 ## 👨🏻‍💻Lenguajes de Programación
 - 💻 C++ / C
 - 📑 Bash
-- 🐍 Pyton ( learning ) (en verdad no tengo ni idea pero ya aprenderé)
+- 🐍 Pyton ( learning )
+- (en verdad no tengo ni idea pero ya aprenderé)
 
 
 ##
