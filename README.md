@@ -3,7 +3,7 @@
   
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KCzzHN7Y0hlLi/giphy.gif" width="190" height="190" />
   
-   - Currently a student at [ULL](https://www.ull.es/) (second year) . 
+   - Currently a student at [ULL](https://www.ull.es/) (third year) . 
    - In my free time I like to paint
 
 ## 🌐 Redes
