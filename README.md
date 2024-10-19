@@ -7,16 +7,15 @@
    - In my free time I like to paint
 
 ## 🌐 Redes
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">](https://twitter.com/rgez_victor) &nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" width="40" height="40">](https://open.spotify.com/user/victor07a)  &nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40" height="40">](https://www.instagram.com/victor.rgez/)  &nbsp;&nbsp;
 [<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/wuolah/tray_large.png?c7c004248031ecde29f050fb2b9eec58&d=100x100" width="40" height="40">](https://wuolah.com/profile/victor_rgez?referral=vicrgez1)  &nbsp;&nbsp;
 [<img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-eyd5tyuo.png" width="40" height="40">](https://github.com/alu0101540153)  &nbsp;&nbsp;
 
 ## 👨🏻‍💻Lenguajes de Programación
-- 💻 C++ / C
+- 💻 C++ / C   ( mainly )
 - 📑 Bash
 - 🐍 Pyton ( learning )
+- 💎 Ruby
 - (en verdad no tengo ni idea pero ya aprenderé)
 
 
