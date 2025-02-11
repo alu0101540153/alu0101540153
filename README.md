@@ -16,6 +16,7 @@
 - 📑 Bash
 - 🐍 Pyton ( learning )
 - 💎 Ruby
+- ☄️ Typescript
 - (en verdad no tengo ni idea pero ya aprenderé)
 
 
