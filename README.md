@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently sturing at University of La Laguna<br>🌱 I’m currently learning ts, node<br>
+🔭 Studing at University of La Laguna<br>🌱 I’m currently learning ts, node<br>
 
 
 ## 🌐 Socials:
