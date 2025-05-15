@@ -1,26 +1,18 @@
-<div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/alu0101540153">Víctor</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KCzzHN7Y0hlLi/giphy.gif" width="190" height="190" />
-  
-   - Currently a student at [ULL](https://www.ull.es/) (third year) . 
-   - In my free time I like to paint
-
-## 🌐 Redes
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40" height="40">](https://www.instagram.com/victor.rgez/)  &nbsp;&nbsp;
-[<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/wuolah/tray_large.png?c7c004248031ecde29f050fb2b9eec58&d=100x100" width="40" height="40">](https://wuolah.com/profile/victor_rgez?referral=vicrgez1)  &nbsp;&nbsp;
-[<img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-eyd5tyuo.png" width="40" height="40">](https://github.com/alu0101540153)  &nbsp;&nbsp;
-
-## 👨🏻‍💻Lenguajes de Programación
-- 💻 C++ / C   ( mainly )
-- 📑 Bash
-- 🐍 Pyton ( learning )
-- 💎 Ruby
-- ☄️ Typescript
-- (en verdad no tengo ni idea pero ya aprenderé)
+# 💫 About Me:
+🔭 I’m currently sturing at University of La Laguna<br>🌱 I’m currently learning ts, node<br>
 
 
-##
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor.rgez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/víctor-rodríguez-dorta-793a092b5) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alu0101540153&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alu0101540153&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101540153&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=alu0101540153&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
